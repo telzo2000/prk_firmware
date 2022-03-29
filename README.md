@@ -16,6 +16,7 @@ The following boards have been confirmed to work as of now:
 
 - Raspberry Pi Pico
 - Sparkfun Pro Micro RP2040 (~~DEV-17177~~ now it's DEV-18288)
+- Waveshare RP2040-Zero
 
 ![](doc/images/RP2040_boards.jpg)
 
